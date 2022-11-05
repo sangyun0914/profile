@@ -2,6 +2,7 @@ p {
     margin-bottom: 40px;
 }
 
+
 body {
     background: #eeeeee;
     font-family: "Segoe UI";
@@ -16,6 +17,7 @@ body {
 
 h1 {
     text-align: center;
+    font-size: large;
     margin-top: 0px;
 }
 
